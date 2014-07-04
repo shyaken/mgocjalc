@@ -1,0 +1,1 @@
+The Wowzic app utilizes an internet connection to get song info and play music. The app will not ask for, store, transmit, or collect any of your personal information by any way.
